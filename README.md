@@ -4,8 +4,6 @@ This repo contains all the ROS2 packages that interface different specialized se
 They are tested on `Ubuntu 22.04` and `ROS2 Humble`. However, most of them do not rely on OS and ROS2 distro-specific features, so they should be easily portable.
 
 
-T
-
 # Intel RealSense
 Intel RealSense is a family of stereo-based RGBD cameras.
 
