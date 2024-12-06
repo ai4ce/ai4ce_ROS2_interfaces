@@ -21,8 +21,6 @@ GelSight is a series of gel-based tactile sensors that can render touch as high-
 
 [Repo Link](https://github.com/ai4ce/gelsight_ROS2_interface)
 
-***Note***: Currently private due to some license issues. Will be open source soon.
-
 
 # USB Camera
  Good ol' USB RGB Camera
